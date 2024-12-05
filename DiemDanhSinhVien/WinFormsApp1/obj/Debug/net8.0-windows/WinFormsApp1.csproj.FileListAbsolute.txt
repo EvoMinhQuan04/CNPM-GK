@@ -1,0 +1,1004 @@
+E:\UI_attendancesoftware\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\UI_attendancesoftware\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\UI_attendancesoftware\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\UI_attendancesoftware\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\UI_attendancesoftware\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\UI_attendancesoftware\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\UI_attendancesoftware\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\UI_attendancesoftware\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\CNPM_V2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\CNPM_V2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\CNPM_V2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\CNPM_V2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\CNPM_V2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\CNPM_V2\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\CNPM_V2\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\CNPM_V2\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\CNPM_V2\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+D:\CNPM_GK-caominhquan\CNPM_GK-caominhquan\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\pull code\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\pull code\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\pull code\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\pull code\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\pull code\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\pull code\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\pull code\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\pull code\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\pull code\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\pull code\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\pull code\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\pull code\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\pull code\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\pull code\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\Alone\CNPM\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\Alone\CNPM\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\Alone\CNPM\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Alone\CNPM\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Alone\CNPM\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Alone\CNPM\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\Alone\CNPM\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\Alone\CNPM\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Alone\CNPM\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\Alone\CNPM\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\Alone\CNPM\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\Alone\CNPM\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\Alone\CNPM\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Alone\CNPM\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Alone\CNPM2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\Alone\CNPM2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\Alone\CNPM2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Alone\CNPM2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Alone\CNPM2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Alone\CNPM2\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\Alone\CNPM2\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\Alone\CNPM2\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Alone\CNPM2\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\Alone\CNPM2\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\Alone\CNPM2\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\Alone\CNPM2\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\Alone\CNPM2\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Alone\CNPM2\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Alone\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\Alone\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\Alone\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Alone\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Alone\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Alone\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\Alone\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\Alone\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Alone\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\Alone\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\Alone\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\Alone\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\Alone\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Alone\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM3\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM4\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM5\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM6\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM7\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM8\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM9\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM10\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM11\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM12\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM13\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmEditData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmEditData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM14\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmEditData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmFilterData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM15\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmEditData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmFilterData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM16\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmEditData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmFilterData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM17\WinFormsApp1\bin\Debug\net8.0-windows\Resources\Dữ liệu mẫu sinh viên.xlsx
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\Resources\Dữ liệu mẫu sinh viên.xlsx
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmEditData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmFilterData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\Resources\geolocation.html
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\Resources\huongdan.jpg
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\refint\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\DiemDanhSinhVien.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM18\WinFormsApp1\obj\Debug\net8.0-windows\ref\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmEditData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmFilterData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\refint\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\DiemDanhSinhVien.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\Resources\Dữ liệu mẫu sinh viên.xlsx
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\Resources\geolocation.html
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\Resources\huongdan.jpg
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\obj\Debug\net8.0-windows\ref\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM19\WinFormsApp1\bin\Debug\net8.0-windows\Resources\Dữ liệu tọa độ mẫu.xlsx
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\Resources\Dữ liệu mẫu sinh viên.xlsx
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\Resources\Dữ liệu tọa độ mẫu.xlsx
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\Resources\geolocation.html
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\Resources\huongdan.jpg
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmEditData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmFilterData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\refint\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\DiemDanhSinhVien.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPMBEST\WinFormsApp1\obj\Debug\net8.0-windows\ref\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.exe
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\Resources\Dữ liệu mẫu sinh viên.xlsx
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\Resources\Dữ liệu tọa độ mẫu.xlsx
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\Resources\geolocation.html
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\Resources\huongdan.jpg
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.deps.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.runtimeconfig.json
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmEditData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmFilterData.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\refint\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\DiemDanhSinhVien.pdb
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\obj\Debug\net8.0-windows\ref\DiemDanhSinhVien.dll
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\DATA.mdf
+E:\4. Công Nghệ Phần Mềm Project\CNPM21\WinFormsApp1\bin\Debug\net8.0-windows\DATA_log.ldf
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.exe
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\Resources\Dữ liệu mẫu sinh viên.xlsx
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\Resources\Dữ liệu tọa độ mẫu.xlsx
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\Resources\geolocation.html
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\Resources\huongdan.jpg
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.deps.json
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.runtimeconfig.json
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\DiemDanhSinhVien.pdb
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\Aqua.Newtonsoft.Json.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmEditData.resources
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmFilterData.resources
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmImportExcel.resources
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmMain.resources
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\DiemDanhSinhVien.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\refint\DiemDanhSinhVien.dll
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\DiemDanhSinhVien.pdb
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\MSI PC\Desktop\DEMO Thực Hành\DiemDanhSinhVien\WinFormsApp1\obj\Debug\net8.0-windows\ref\DiemDanhSinhVien.dll

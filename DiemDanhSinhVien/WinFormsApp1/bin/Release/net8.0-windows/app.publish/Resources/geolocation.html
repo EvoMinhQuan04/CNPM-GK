@@ -1,0 +1,195 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AdminLocation</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f4f8;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: #007BFF;
+            margin-bottom: 20px;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .button-container {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1rem;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            margin-bottom: 10px;
+            width: 150px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        #location-container {
+            position: relative;
+            width: 500px;
+            height: 60px;
+            background-color: #e9ecef;
+            border-radius: 7px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #ccc;
+            overflow: hidden;
+        }
+
+        #location {
+            font-size: 1.2rem;
+            padding: 10px;
+            word-wrap: break-word;
+            text-align: center;
+            width: 100%;
+            z-index: 1;
+        }
+
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 4px solid #3498db;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            position: absolute;
+            z-index: 2;
+            display: none; 
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @media only screen and (max-width: 600px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            button {
+                font-size: 0.9rem;
+                padding: 8px 16px;
+            }
+
+            #location-container {
+                width: 100%;
+            }
+        }
+    </style>
+    <script>
+        function getLocation() {
+            var loader = document.getElementById("loader");
+            var locationElement = document.getElementById("location");
+            
+            // Hiển thị hiệu ứng loading đè lên khung hiển thị vị trí
+            loader.style.display = "block";
+            locationElement.style.display = "none";
+
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function(position) {
+                    showPosition(position);
+                    loader.style.display = "none";
+                    locationElement.style.display = "block"; 
+                }, function(error) {
+                    showError(error);
+                    loader.style.display = "none"; // Ẩn loader nếu có lỗi
+                    locationElement.style.display = "block";
+                });
+            } else {
+                locationElement.innerHTML = "Trình duyệt của bạn không hỗ trợ Geolocation.";
+                loader.style.display = "none";
+                locationElement.style.display = "block";
+            }
+        }
+
+        function showPosition(position) {
+            var lat = position.coords.latitude;
+            var lon = position.coords.longitude;
+
+            // Hiển thị vị trí
+            var locationText = "Vĩ độ: " + lat + "<br> Kinh độ: " + lon;
+            document.getElementById("location").innerHTML = locationText;
+
+            // Lưu vị trí vào một biến để copy khi cần
+            window.locationToCopy = locationText;
+        }
+
+        function copyToClipboard() {
+            if (window.locationToCopy) {
+                // Sử dụng navigator.clipboard để copy
+                navigator.clipboard.writeText(window.locationToCopy).then(function() {
+                    alert("Đã copy tọa độ thành công! ");
+                }, function(err) {
+                    console.error("Không thể sao chép: ", err);
+                });
+            } else {
+                alert("Không có tọa độ để copy. Hãy nhấn 'Lấy vị trí' trước.");
+            }
+        }
+
+        function showError(error) {
+            var locationElement = document.getElementById("location");
+            switch (error.code) {
+                case error.PERMISSION_DENIED:
+                    locationElement.innerHTML = "Người dùng đã từ chối chia sẻ vị trí.";
+                    break;
+                case error.POSITION_UNAVAILABLE:
+                    locationElement.innerHTML = "Thông tin vị trí không có sẵn.";
+                    break;
+                case error.TIMEOUT:
+                    locationElement.innerHTML = "Yêu cầu lấy vị trí hết thời gian.";
+                    break;
+                case error.UNKNOWN_ERROR:
+                    locationElement.innerHTML = "Đã xảy ra lỗi không xác định.";
+                    break;
+            }
+        }
+    </script>
+</head>
+<body>
+
+    <h1>Admin Location</h1>
+    
+    <div class="container">
+        <div class="button-container">
+            <button onclick="getLocation()">Lấy vị trí</button>
+            <!-- Nút copy -->
+            <button onclick="copyToClipboard()">Copy vị trí</button>
+        </div>
+        
+        <!-- Khung hiển thị vị trí với loader -->
+        <div id="location-container">
+            <div id="location">Vị trí sẽ hiển thị tại đây</div>
+            <div id="loader" class="loader"></div>
+        </div>
+    </div>
+
+</body>
+</html>
